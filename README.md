@@ -13,10 +13,12 @@ Tools: Git, VS Code, Canva, Adobe Photoshop
 🌟 What I Do:
 Develop dynamic and responsive websites
 Craft efficient and scalable code
+
 Engage in various projects to expand my skill set
 
 🔭 Current Projects:
 Exploring the potential of big data analytics in personalized learning
+
 Working on innovative web design projects
 
 🌱 Learning & Growing:
