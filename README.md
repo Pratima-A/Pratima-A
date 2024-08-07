@@ -11,7 +11,7 @@ Frameworks: React, Bootstrap
 Tools: Git, VS Code, Canva, Adobe Photoshop
 
 🌟 What I Do:
-Develop dynamic and responsive websites
+Develop dynamic and responsive websites, app
 Craft efficient and scalable code
 
 Engage in various projects to expand my skill set
